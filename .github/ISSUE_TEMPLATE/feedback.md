@@ -2,7 +2,7 @@
 name: 反馈与建议
 about: 对China2B2T的反馈及建议
 title: China2B2T - 反馈与建议
-labels: question
+labels: enhancement
 assignees: Rabbit0w0
 
 ---
